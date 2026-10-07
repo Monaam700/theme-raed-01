@@ -1,10 +1,10 @@
 {
     "name": {
         "ar": "رائد",
-        "en": "Theme Raed"
+        "en": "Theme-Raed"
     },
-    "repository": "https://github.com/SallaApp/theme-raed",
-    "author_email": "support@salla.sa",
+    "repository": "https://github.com/Monaam700/ejada",
+    "author_email": "abdelmonaam700@gmail.com",
     "features": [
         "mega-menu",
         "fonts",
